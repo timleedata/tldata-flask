@@ -1,5 +1,5 @@
 # TLData-Flask: Overview  
-* Former* source repo for my public profile \[timleedata.com\]  
+* Former* source repo for my public profile  
 * My first published web app, uses Flask and Heroku  
 
 ## Code and Resources Used  
